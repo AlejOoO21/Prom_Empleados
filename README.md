@@ -152,3 +152,16 @@ Demuestra habilidades en:
   <li>Interpretación de información empresarial</li>
   <li>Pensamiento analítico orientado a la toma de decisiones</li>
 </ul>
+
+<hr>
+
+<h2>👤 Autor</h2>
+
+<p>
+<b>Alejandro</b><br>
+Estudiante universitario con interés en Análisis de Datos y Business Intelligence
+</p>
+
+<p>
+🔗 <b>GitHub:</b> https://drive.google.com/file/d/1IEdGTAxFgZgMESEL0MxMsI3xzE1AAuBK/view?usp=sharing
+</p>
