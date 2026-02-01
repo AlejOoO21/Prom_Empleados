@@ -163,5 +163,5 @@ Estudiante universitario con interés en Análisis de Datos y Business Intellige
 </p>
 
 <p>
-🔗 <b>GitHub:</b> https://drive.google.com/file/d/1IEdGTAxFgZgMESEL0MxMsI3xzE1AAuBK/view?usp=sharing
+🔗 <b>Colab:</b> https://drive.google.com/file/d/1IEdGTAxFgZgMESEL0MxMsI3xzE1AAuBK/view?usp=sharing
 </p>
